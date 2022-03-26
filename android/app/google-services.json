@@ -1,0 +1,54 @@
+
+{
+  
+  "project_info": {
+    "project_number": "570026473519",
+    "project_id": "tasktwo-c857d",
+    "storage_bucket": "tasktwo-c857d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570026473519:android:1a23aa3502461c14c46eda",
+        "android_client_info": {
+          "package_name": "com.tasktwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570026473519-1del9ba4ai0govir6lqllncgtdmsk3f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tasktwo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "570026473519-rshrqg7c8kng06b3t1644jh8h15skuvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-Q4VU52McxyyRcrxDJ0Dk7ZMc7hL434"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570026473519-rshrqg7c8kng06b3t1644jh8h15skuvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1",
+  "react-native": {
+    "android_task_executor_maximum_pool_size": 10,
+    "android_task_executor_keep_alive_seconds": 3
+  }
+  
+}
